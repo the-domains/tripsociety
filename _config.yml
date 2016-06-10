@@ -1,0 +1,28 @@
+name: tripsociety
+favicon: null
+layout_spectrum: 0.45549426740035415
+typography_spectrum: 0.5224341787397861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5457766584586352
+  lightness: 0.4916356015019119
+  saturation: 0.11148250824771821
+  rhythmicContrast: 0.13251129910349846
+purpose: []
