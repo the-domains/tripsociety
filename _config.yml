@@ -2,6 +2,7 @@ name: tripsociety
 favicon: null
 layout_spectrum: 0.51392
 typography_spectrum: 0.78453
+title: The Trip Society
 cta:
   domain: null
   bucket: null
